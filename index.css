@@ -1,0 +1,36 @@
+*{
+ margin:0 ;
+ 
+}
+
+.contenedor{
+    
+    
+    background-color: rgb(183, 239, 229);
+    
+}
+
+.imagen{
+
+        width: 150px;
+        height: 150px;
+        background-image: gradient();
+      
+
+        /* OKAY */
+        background-size: 25px 50px;
+        background-size: 50% 50%;
+      
+      
+}
+img{
+    display: block;
+    margin: auto;
+
+}
+
+   h1{
+    text-align: center;
+   }
+   h1{text-shadow: 1cap;}
+   
